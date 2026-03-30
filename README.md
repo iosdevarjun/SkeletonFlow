@@ -63,7 +63,7 @@ File → Add Package Dependencies
 Enter:
 
 ```swift
-https://github.com/IArjunChudasa/SkeletonFlow
+https://github.com/iosdevarjun/SkeletonFlow
 ```
 
 ---
